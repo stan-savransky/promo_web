@@ -2,9 +2,10 @@
   <div id="landing">
     <div class="hero">
       <div class="hero-text">
-        <h1>This is my awesome blog page</h1>
+        <h1>Savransky Stan</h1>
+	<h3>diary notes thoughts...</h3>
         <p>
-          <nuxt-link class="btn" to="/posts/">Look at my posts ...</nuxt-link>
+          <nuxt-link class="btn" to="/posts/">my notes ...</nuxt-link>
         </p>
       </div>
     </div>
