@@ -1,8 +1,8 @@
 <template>
+  <title>Stan Savransky</title>
   <div id="landing">
     <div class="hero">
       <div class="hero-text">
-        <h1>Savransky Stan</h1>
 	<h3>diary notes thoughts...</h3>
         <p>
           <nuxt-link class="btn" to="/posts/">my notes ...</nuxt-link>
